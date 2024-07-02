@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=.0">
+    <title>Environmentprotection
+    </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #333;
+        }
+        nav a {
+            color: white;
+            padding: 1rem;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        .container {
+            padding: 2rem;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Data Driven Sustainability :Protecting Our PlanetFor Future Generation
+        </h1>
+    </header>
+    <nav>
+        <a href="htmlfrontpage.html">Home</a>
+        <a href="wastemangement.html">Waste management</a>
+        <a href="waterconservation.html">water conservation</a>
+        <a href="treeplantation.html">Tree plantation</a>
+        <a href="airqualitymanagement.html">Air quality management</a>
+        <a href="wildlifeconservation.html">wild life protection</a>
+    </nav>
+    <div class="container">
+        <h2>Welcome to Our Environment Protection Initiative</h2>
+        <p>Our mission is to raise awareness about environmental issues and promote sustainable practices to protect our planet.</p>
+        <p>Join us in making a difference by learning more about our projects and how you can contribute.</p>
+        <p>In this we awareness among the people about the what are measures we should take to protect the environment som of the topic we focus on are:</p>
+        <h2>Waste Management</h2>
+    </div>
+    <footer>
+        <p>&copy; 2024 Environment Protection. All rights reserved.</p>
+    </footer>
+</body>
+</html>
